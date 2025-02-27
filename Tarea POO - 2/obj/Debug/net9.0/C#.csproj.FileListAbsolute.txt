@@ -1,0 +1,14 @@
+/Users/tomjmp/Desktop/C#/bin/Debug/net9.0/C#
+/Users/tomjmp/Desktop/C#/bin/Debug/net9.0/C#.deps.json
+/Users/tomjmp/Desktop/C#/bin/Debug/net9.0/C#.runtimeconfig.json
+/Users/tomjmp/Desktop/C#/bin/Debug/net9.0/C#.dll
+/Users/tomjmp/Desktop/C#/bin/Debug/net9.0/C#.pdb
+/Users/tomjmp/Desktop/C#/obj/Debug/net9.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomjmp/Desktop/C#/obj/Debug/net9.0/C#.AssemblyInfoInputs.cache
+/Users/tomjmp/Desktop/C#/obj/Debug/net9.0/C#.AssemblyInfo.cs
+/Users/tomjmp/Desktop/C#/obj/Debug/net9.0/C#.csproj.CoreCompileInputs.cache
+/Users/tomjmp/Desktop/C#/obj/Debug/net9.0/C#.dll
+/Users/tomjmp/Desktop/C#/obj/Debug/net9.0/refint/C#.dll
+/Users/tomjmp/Desktop/C#/obj/Debug/net9.0/C#.pdb
+/Users/tomjmp/Desktop/C#/obj/Debug/net9.0/C#.genruntimeconfig.cache
+/Users/tomjmp/Desktop/C#/obj/Debug/net9.0/ref/C#.dll
